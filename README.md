@@ -1,2 +1,21 @@
 # final-project-solvro-backend-wakacyjne-wyzwanie-2026
 Grupowy projekt Solvro Wakacyjne Wyzwanie 2026 ścieżki Backend
+
+## 👤 Authors:
+- [Kacper Lebiedziński](https://github.com/kltpl)
+- [Dawid Wartalski](https://github.com/dwartalski)
+- [Szymon Banasiak](https://github.com/FaziSPB)
+
+## 📝 Conventional Commits
+
+The commit structure should look like this:
+`<type>(<optional scope>): <description in imperative mood>`
+
+### Available types
+
+- **`feat:`** – change introducing new functionalities
+- **`fix:`** – change to repair existing functionalities
+- **`refactor:`** – refactoring/refactoring, change does not make changes in functionalities, only changes the structure/way of execution
+- **`sick:`** – 'boring' activity, e.g. initialization of repo, raising of the build number, release
+- **`docs:`** – change of documentation (e.g. README, LICENSE).
+- **`test:`** – adding or improving tests
